@@ -1,0 +1,21 @@
+  
+ --------------- info candidata a línea CO # 94.525 GHz ---- 
+*********  gauss fit ********
+line intensity [mJy]:       2.10000
+freq central [GHz]:       94.525
+FWHM [km/s]:       373.421
+  
+ --------------- info candidata a línea CO # 110.279 GHz ----
+*********  gauss fit ********
+line intensity [mJy]:       2.81385
+freq central [GHz]:       110.279 
+FWHM [km/s]:       152.716 
+
+
+*La precisión de las frecuencias centrales de las líneas es de 3 decimales
+*el error en FWHM e intensidad de línea es de ~20%
+
+el corrimiento al rojo espectroscópico es de 6.29965
+
+   z        1-0       2-1          3-2         4-3         5-4        6-5         7-6
+6.29965  15.75418   31.50836    47.26254    63.01672    78.77090    94.52508   110.27926  
